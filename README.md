@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Charley.Li
+- 👋 Hi, I’m Charley.Li  ![GitHub followers](https://img.shields.io/github/followers/lichenghao168)
 - 🌱 I’m currently learning what I dont know
 - 💞️ I’m collaborating the developing tasks and intergation
 - 📫 How to reach me ...
-![GitHub followers](https://img.shields.io/github/followers/lichenghao168)
+
 
 
 <!---
